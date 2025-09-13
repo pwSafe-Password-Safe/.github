@@ -115,15 +115,3 @@ Clipboard auto-clear and timeouts help minimize accidental exposure.
 ## 🏷 Tags
 pwsafe • pwsafe mac • password safe mac • offline password manager • safari password fill mac • encrypted vault macOS • clipboard timeout security • apple silicon password app • local password storage mac • secure notes and otp mac
 
----
-
-## 📜 Descriptions
-
-### 🚀 Short Description  
-pwSafe for macOS is a privacy-first password manager with an encrypted local vault, fast search and fill, Safari extension support, and security controls you can tune.
-
-### 📜 Description 1 (≈350 chars)  
-pwSafe for Mac stores passwords, notes, and OTP data in an encrypted vault you control. Use fast search, one-click copy, auto-type, and a Safari extension to fill logins securely. Choose local-only storage or your own sync (iCloud Drive, Dropbox). With auto-lock, clipboard scrubbing, and macOS-native UI, pwSafe keeps secrets safe without slowing you down.
-
-### 📜 Description 2 (≈350 chars)  
-With pwSafe, your credentials remain private and portable. Organize entries with groups, tags, and custom fields; generate strong passwords; and keep recovery codes and notes in one place. Auto-lock, timeouts, and careful clipboard handling reduce risk. Optimized for Apple Silicon and Intel Macs, pwSafe delivers a fast, focused password workflow on macOS.

